@@ -1,0 +1,4 @@
+function Stop()
+{
+    alert("Stop");
+}
